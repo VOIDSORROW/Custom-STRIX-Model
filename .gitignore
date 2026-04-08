@@ -1,0 +1,4 @@
+.env
+/.py3144_venv/
+/attack-releases/
+/__pycache__/
